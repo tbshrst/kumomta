@@ -4810,7 +4810,6 @@ dependencies = [
  "mlua",
  "serde",
  "serde_bytes",
- "toml",
 ]
 
 [[package]]
